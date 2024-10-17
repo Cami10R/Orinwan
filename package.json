@@ -1,0 +1,25 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "proyecto para talento tech, tienda.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cami10R/OruInWan.git"
+  },
+  "keywords": [
+    "Tienda"
+  ],
+  "author": "Juan Camilo Roa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cami10R/OruInWan/issues"
+  },
+  "homepage": "https://github.com/Cami10R/OruInWan#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
